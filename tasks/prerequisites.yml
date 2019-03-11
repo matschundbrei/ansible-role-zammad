@@ -30,3 +30,5 @@
     - libmysqlclient-dev
     - nginx
     - gawk
+    - libimlib2
+    - libimlib2-dev
